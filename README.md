@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sudhanshu9229 
 - 👀 I’m interested in coding and problem solving 
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me throudh linkedin
+- 📫 you can reach out me through linkedin
 - 
 
 <!---
