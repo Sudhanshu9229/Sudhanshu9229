@@ -2,6 +2,8 @@
 - 👀 I’m interested in coding and problem solving 
 - 🌱 I’m currently learning software development
 - 📫 you can reach out me through linkedin
+- i am willing to collaborative on projects based on app and web development
+- 
 - 
 
 <!---
